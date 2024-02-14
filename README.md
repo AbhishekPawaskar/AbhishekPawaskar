@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Abhishe Pawaskar</h1>
+<h1 align="center">Hi 👋, I'm Abhishek Pawaskar</h1>
 <h3 align="center">I like building Intelligent Systems</h3>
 
 - 🔭 Who am I? **Someone who likes solving problems**
